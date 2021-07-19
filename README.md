@@ -1,1 +1,1 @@
-# paper-gpt
+# Paper-GPT
